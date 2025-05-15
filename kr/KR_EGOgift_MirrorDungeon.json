@@ -2889,7 +2889,7 @@
     {
       "id": 19107,
       "name": "옭아맨 타래+",
-      "desc": "속도가 제일 빠른 아군 <style=\"upgradeHighlight\">둘</style>이 [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬을 사용하여 적에게 피해를 입힐 경우, 피해량 +15%.",
+      "desc": "속도가 제일 빠른 아군 <style=\"upgradeHighlight\">둘</style>이 [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬을 사용하여 적에게 피해를 입힐 경우, 피해량 +<style=\"upgradeHighlight\">15</style>%.",
       "simpleDesc": [
         {
           "abilityID": 19107,
@@ -4659,7 +4659,7 @@
     {
       "id": 19192,
       "name": "덧붙인 반창고+",
-      "desc": "턴 종료 시, 출혈을 보유한 아군 중 가장 체력이 적은 인격 2명이 자신의 최대 체력의 5%만큼 체력을 회복.",
+      "desc": "턴 종료 시, 출혈을 보유한 아군 중 가장 체력이 적은 인격 <style=\"upgradeHighlight\">2명</style>이 자신의 최대 체력의 5%만큼 체력을 회복.",
       "simpleDesc": [
         {
           "abilityID": 19192,
