@@ -514,15 +514,15 @@
     },
     {
       "id": "mirrordungeon_purchase_achievement_level_using_lunacy_desc",
-      "content": "※アチーブメント経験時{0}購入時、有償狂気を{1}消耗"
+      "content": "※投影度を{0}購入時、有償狂気を{1}消耗"
     },
     {
       "id": "mirrordungeon_purchase_achievement_level_ask_using_lunacy",
-      "content": "有償狂気{0}を消耗し、経験値を購入しますか？"
+      "content": "有償狂気{0}を消耗し、投影度を購入しますか？"
     },
     {
       "id": "mirrordungeon_purchase_achievement_title",
-      "content": "アチーブメント経験値購入"
+      "content": "投影度の購入"
     },
     {
       "id": "mirrordungeon_achievement_progress",
@@ -543,6 +543,14 @@
     {
       "id": "mirror_dungeon_give_up_ego_gift_ask_with_random_category",
       "content": "E.G.Oギフトを選択せずに進行しますか？\n\nその場合、開始E.G.Oギフトのキーワードは\nランダムに選択されます。"
+    },
+    {
+      "id": "mirror_dungeon_block_to_click_extream_theme_list",
+      "content": "(難易度EXTREME 解禁条件)"
+    },
+    {
+      "id": "mirror_dungeon_extream_difficulty",
+      "content": "EXTREME"
     }
   ]
 }

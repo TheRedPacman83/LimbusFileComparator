@@ -103,6 +103,98 @@
 		{
 			"id": "mission_ui_condition_tags_201005022",
 			"content": "1回の戦闘で囚人1名の速度{0}以上を達成"
+		},
+		{
+			"id": "mission_ui_condition_tags_201006001",
+			"content": "「レベル強化」の制約を1つ以上選択して鏡ダンジョンをクリア"
+		},
+		{
+			"id": "mission_ui_condition_tags_201006002",
+			"content": "「衰弱」の制約を1つ以上選択して鏡ダンジョンをクリア"
+		},
+		{
+			"id": "mission_ui_condition_tags_201006003",
+			"content": "「炎の烙印」の制約を1つ以上選択して鏡ダンジョンをクリア"
+		},
+		{
+			"id": "mission_ui_condition_tags_201006004",
+			"content": "「インフレーション」の制約を1つ以上選択して鏡ダンジョンをクリア"
+		},
+		{
+			"id": "mission_ui_condition_tags_201006005",
+			"content": "「自我干渉」の制約を1つ以上選択して鏡ダンジョンをクリア"
+		},
+		{
+			"id": "mission_ui_condition_tags_201006006",
+			"content": "「精神錯乱」の制約を1つ以上選択して鏡ダンジョンをクリア"
+		},
+		{
+			"id": "mission_ui_condition_tags_201006007",
+			"content": "「神経促進」の制約を1つ以上選択して鏡ダンジョンをクリア"
+		},
+		{
+			"id": "mission_ui_condition_tags_201006008",
+			"content": "「精神力枯渇」の制約を1つ以上選択して鏡ダンジョンをクリア"
+		},
+		{
+			"id": "mission_ui_condition_tags_201006009",
+			"content": "「振動遮断」の制約を1つ以上選択して鏡ダンジョンをクリア"
+		},
+		{
+			"id": "mission_ui_condition_tags_201006010",
+			"content": "「生命力増幅」の制約を1つ以上選択して鏡ダンジョンをクリア"
+		},
+		{
+			"id": "mission_ui_condition_tags_201006011",
+			"content": "「破壊力」の制約を1つ以上選択して鏡ダンジョンをクリア"
+		},
+		{
+			"id": "mission_ui_condition_tags_201006012",
+			"content": "制約ポイントが{0}点以上で鏡ダンジョン階層をクリア"
+		},
+		{
+			"id": "mission_ui_condition_tags_201000001",
+			"content": "全アチーブメント達成(隠し実績は含まない)"
+		},
+		{
+			"id": "ui_condition_clear_201100001_CLEAR",
+			"content": "隠しノードクリア - ドンキホーテ"
+		},
+		{
+			"id": "ui_condition_clear_201100002_CLEAR",
+			"content": "隠しノードクリア - レイホン"
+		},
+		{
+			"id": "ui_condition_clear_201100003_CLEAR",
+			"content": "隠しノードクリア - リカルド"
+		},
+		{
+			"id": "ui_condition_clear_201100004_CLEAR",
+			"content": "隠しノードクリア - コミとヴェルギリウス"
+		},
+		{
+			"id": "mission_ui_condition_tags_201100005",
+			"content": "E.G.Oギフト記録集のEXランクE.G.Oギフト「富」を解禁"
+		},
+		{
+			"id": "mission_ui_condition_tags_201100006",
+			"content": "E.G.Oギフト記録集のEXランクE.G.Oギフト「とある哲学」を解禁"
+		},
+		{
+			"id": "ui_condition_clear_201100001_NONE",
+			"content": "隠しノードクリア - ???"
+		},
+		{
+			"id": "ui_condition_clear_201100002_NONE",
+			"content": "隠しノードクリア - ???"
+		},
+		{
+			"id": "ui_condition_clear_201100003_NONE",
+			"content": "隠しノードクリア - ???"
+		},
+		{
+			"id": "ui_condition_clear_201100004_NONE",
+			"content": "隠しノードクリア - ???"
 		}
 	]
 }
