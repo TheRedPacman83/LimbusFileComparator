@@ -119,7 +119,9 @@
         "DanteAbilityUIText_a1c9p3",
         "UnitKeyword-a1c9p2",
         "UnitKeyword-a1c9p3",
-        "MirrorDungeonUI_7"
+        "MirrorDungeonUI_7",
+        "SelectDUI",
+        "Limbus3rdAnniversary"
     ],
     "character": [
         "Characters"
@@ -493,7 +495,9 @@
         "AbEvents-pilgrimage",
         "AbEvents_mowe-re",
         "AbEvents-a1c9p1",
-        "AbEvents-a1c9p2"
+        "AbEvents-a1c9p2",
+        "AbEvents_Mirror7"
+
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -933,7 +937,8 @@
         "Announcer_Ryoshu_42",
         "Announcer_PinkyChibi_41",
         "Announcer_Sode_90003",
-        "Announcer_LCDAengdu_90004"
+        "Announcer_LCDAengdu_90004",
+        "Announcer_AngelaLoR_43"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
