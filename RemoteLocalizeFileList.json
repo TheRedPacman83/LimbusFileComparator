@@ -119,10 +119,13 @@
         "DanteAbilityUIText_a1c9p3",
         "UnitKeyword-a1c9p2",
         "UnitKeyword-a1c9p3",
+        "SkinUI",
         "MirrorDungeonUI_7",
         "SelectDUI",
         "Limbus3rdAnniversary",
-        "Walpu8EventText"
+        "Walpu8EventText",
+        "UI_Mission_MirrorDungeon7Event",
+        "MirrorDungeonUI_7_Achievement"
     ],
     "character": [
         "Characters"
