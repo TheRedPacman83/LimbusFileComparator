@@ -925,7 +925,9 @@
         "Voice_Yisang_KumoIndex_10115",
         "Voice_Meursalut_LEGO_10514",
         "Voice_Ryoshu_LEGOEcho_10414",
-        "Voice_Gregor_LCE_11215"
+        "Voice_Gregor_LCE_11215",
+        "Voice_Faust_KumoRings_10215",
+        "Voice_Honglu_KumoRings_10614"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
