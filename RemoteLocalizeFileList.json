@@ -128,7 +128,8 @@
         "MirrorDungeonUI_7_Achievement",
         "UI_x1p1c1",
         "UnitKeyword-x1p1c1",
-        "TwiningThreadsEvent"
+        "TwiningThreadsEvent",
+        "BossRaidUI"
     ],
     "character": [
         "Characters"
