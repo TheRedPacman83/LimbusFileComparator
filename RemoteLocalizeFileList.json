@@ -307,7 +307,9 @@
         "Skills_personality-x1p1c1",
         "Skills_Enemy-twth",
         "Skills_Abnormality-twth",
-        "Skills_Assist-twth"
+        "Skills_Assist-twth",
+        "Skills_Enemy_Mirror7-extreme",
+        "Skills_Abnormality_Mirror7-extreme"
     ],
     "passive": [
         "Passives",
@@ -392,7 +394,10 @@
         "Passives-x1p1c1",
         "Passives_Enemy-twth",
         "Passives_Abnormality-twth",
-        "Passives_Assist-twth"
+        "Passives_Assist-twth",
+        "Passives_Enemy-mr7-extreme",
+        "Passives_Abnormality-mr7-extreme",
+        "Passives_Abnormality-night-clean-up-re"
     ],
     "buf": [
         "Bufs",
@@ -437,7 +442,9 @@
         "Bufs_Mirror7",
         "Bufs-walpu8",
         "Bufs-x1p1c1",
-        "Bufs-twth"
+        "Bufs-twth",
+        "Bufs-night-clean-up-re",
+        "Bufs-BossRaid"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -494,7 +501,9 @@
         "BattleKeywords_Mirror7",
         "BattleKeywords-walpu8",
         "BattleKeywords-x1p1c1",
-        "BattleKeywords-twth"
+        "BattleKeywords-twth",
+        "BattleKeywords-night-clean-up-re",
+        "BattleKeywords-BossRaid"
     ],
     "skillTag": [
         "SkillTag"
@@ -533,7 +542,8 @@
         "AbEvents_Mirror7",
         "AbEvents-walpu8",
         "AbEvents_lcbcheckup-re",
-        "AbEvents_twth"
+        "AbEvents_twth",
+        "AbEvents_night-clean-up-re"
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -614,7 +624,8 @@
         "ActionEvents-walpu8",
         "ActionEvents_lcbcheckup-re",
         "ActionEvents-x1p1c1",
-        "ActionEvents_twth"
+        "ActionEvents_twth",
+        "ActionEvents_night-clean-up-re"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -644,7 +655,8 @@
         "EGOgift_walpu8",
         "EGOgift_lcbcheckup-re",
         "EGOgift_MirrorDungeon-x1p1c1",
-        "EGOgift_TwiningThreads"
+        "EGOgift_TwiningThreads",
+        "EGOgift_night-clean-up-re"
     ],
     "stageChapter": [
         "StageChapterText",
@@ -946,7 +958,8 @@
         "Voice_Faust_KumoRings_10215",
         "Voice_Honglu_KumoRings_10614",
         "Voice_Meursault_Rings_10515",
-        "Voice_Rodion_Rings_10915"
+        "Voice_Rodion_Rings_10915",
+        "Voice_Heathcliff_Middle_10715"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -1001,7 +1014,9 @@
         "Announcer_X1P1C1_90005",
         "Announcer_X1P1C1_90006",
         "Announcer_X1P1C1_90007",
-        "Announcer_Kira_46"
+        "Announcer_Kira_46",
+        "Announcer_Sweepers_47",
+        "Announcer_Sweepers_48"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
