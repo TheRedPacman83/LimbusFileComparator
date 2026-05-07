@@ -129,7 +129,8 @@
         "UI_x1p1c1",
         "UnitKeyword-x1p1c1",
         "TwiningThreadsEvent",
-        "BossRaidUI"
+        "BossRaidUI",
+        "BossRaidUI-2"
     ],
     "character": [
         "Characters"
@@ -309,7 +310,9 @@
         "Skills_Abnormality-twth",
         "Skills_Assist-twth",
         "Skills_Enemy_Mirror7-extreme",
-        "Skills_Abnormality_Mirror7-extreme"
+        "Skills_Abnormality_Mirror7-extreme",
+        "Skills_Abnormality-night-clean-up-re",
+        "Skills_Abnormality-BossRaid"
     ],
     "passive": [
         "Passives",
@@ -397,7 +400,8 @@
         "Passives_Assist-twth",
         "Passives_Enemy-mr7-extreme",
         "Passives_Abnormality-mr7-extreme",
-        "Passives_Abnormality-night-clean-up-re"
+        "Passives_Abnormality-night-clean-up-re",
+        "Passives-BossRaid"
     ],
     "buf": [
         "Bufs",
