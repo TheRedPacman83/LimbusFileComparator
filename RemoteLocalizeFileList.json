@@ -461,7 +461,8 @@
         "Items-fools",
         "Items-a1c8p1",
         "Items-a1c9p1",
-        "Items-x1p1c1"
+        "Items-x1p1c1",
+        "Items-egoFifth"
     ],
     "keyword": [
         "BattleKeywords",
@@ -963,7 +964,8 @@
         "Voice_Honglu_KumoRings_10614",
         "Voice_Meursault_Rings_10515",
         "Voice_Rodion_Rings_10915",
-        "Voice_Heathcliff_Middle_10715"
+        "Voice_Heathcliff_Middle_10715",
+        "Voice_Ryoshu_KumoPinky_10415"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
