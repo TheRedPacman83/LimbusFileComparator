@@ -1000,7 +1000,9 @@
         "Voice_Ishmael_LCD_10815",
         "Voice_Honglu_SCorp_10615",
         "Voice_Heathcliff_KumoThumb_10716",
-        "Voice_Rodion_KumoThumb_10916"
+        "Voice_Rodion_KumoThumb_10916",
+        "Voice_Faust_Dawn_10216",
+        "Voice_Gregor_Dawn_11216"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -1058,7 +1060,8 @@
         "Announcer_Kira_46",
         "Announcer_Sweepers_47",
         "Announcer_Sweepers_48",
-        "Announcer_SatgatAengdu_49"
+        "Announcer_SatgatAengdu_49",
+        "Announcer_Binah_50"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
