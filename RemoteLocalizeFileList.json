@@ -136,7 +136,8 @@
         "RailwayDungeonUI_6",
         "RecordMemoryEvent",
         "UnitKeyword-exem",
-        "BossRaidUI-3"
+        "BossRaidUI-3",
+        "LobbyBGMUI"
     ],
     "character": [
         "Characters"
@@ -1293,5 +1294,11 @@
     ],
     "errorCodeMsg": [
         "ErrorCodeMsg"
+    ],
+    "lobbyBGM": [
+        "LobbyBGM"
+    ],
+    "lobbyBGMCategory": [
+        "LobbyBGMCategory"
     ]
 }
