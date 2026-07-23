@@ -137,7 +137,8 @@
         "RecordMemoryEvent",
         "UnitKeyword-exem",
         "BossRaidUI-3",
-        "LobbyBGMUI"
+        "LobbyBGMUI",
+        "RailwayDungeonUI_1002"
     ],
     "character": [
         "Characters"
@@ -326,7 +327,8 @@
         "Skills_Abnormality-BossRaid",
         "Skills_Abnormality-exme",
         "Skills_Assist-exme",
-        "Skills_Enemy-exme"
+        "Skills_Enemy-exme",
+        "Skills_Abnormality_Refraction2_bokgak"
     ],
     "passive": [
         "Passives",
@@ -419,7 +421,8 @@
         "Passives-BossRaid",
         "Passives_Abnormality-exme",
         "Passives_Assist-exme",
-        "Passives_Enemy-exme"
+        "Passives_Enemy-exme",
+        "Passives_Abnormality_Refraction2BokGak"
     ],
     "buf": [
         "Bufs",
@@ -459,6 +462,7 @@
         "Bufs_Mirror6",
         "Bufs-pilgrimage",
         "Bufs-Refraction1BokGak",
+        "Bufs-Refraction2BokGak",
         "Bufs-a1c9p1",
         "Bufs-a1c9p2",
         "Bufs-a1c9p3",
@@ -521,6 +525,7 @@
         "BattleKeywords_Mirror6",
         "BattleKeywords-pilgrimage",
         "BattleKeywords-Refraction1BokGak",
+        "BattleKeywords-Refraction2BokGak",
         "BattleKeywords-a1c9p1",
         "BattleKeywords-a1c9p2",
         "BattleKeywords-a1c9p3",
@@ -769,7 +774,8 @@
         "RailwayDungeonNode4",
         "RailwayDungeonNode5",
         "RailwayDungeonNode1BokGak",
-        "RailwayDungeonNode6"
+        "RailwayDungeonNode6",
+        "RailwayDungeonNode1002"
     ],
     "railwayDungeon": [
         "RailwayDungeon"
@@ -1003,7 +1009,8 @@
         "Voice_Heathcliff_KumoThumb_10716",
         "Voice_Rodion_KumoThumb_10916",
         "Voice_Faust_Dawn_10216",
-        "Voice_Gregor_Dawn_11216"
+        "Voice_Gregor_Dawn_11216",
+        "Voice_Yisang_LCEJigen_10116"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -1062,7 +1069,8 @@
         "Announcer_Sweepers_47",
         "Announcer_Sweepers_48",
         "Announcer_SatgatAengdu_49",
-        "Announcer_Binah_50"
+        "Announcer_Binah_50",
+        "Announcer_MatthiasKira_51"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -1177,7 +1185,8 @@
         "RailwayDungeonStationName4",
         "RailwayDungeonStationName5",
         "RailwayDungeonStationName1001",
-        "RailwayDungeonStationName6"
+        "RailwayDungeonStationName6",
+        "RailwayDungeonStationName1002"
     ],
     "railwayDungeonBuff": [
         "RailwayDungeonBuff"
