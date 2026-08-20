@@ -137,6 +137,9 @@
         "RecordMemoryEvent",
         "UnitKeyword-exem",
         "BossRaidUI-3",
+        "BossRaidUI-4",
+        "AttendanceCheckS7",
+        "AnnouncerTicketUIPopup",
         "LobbyBGMUI",
         "RailwayDungeonUI_1002"
     ],
@@ -1010,7 +1013,8 @@
         "Voice_Rodion_KumoThumb_10916",
         "Voice_Faust_Dawn_10216",
         "Voice_Gregor_Dawn_11216",
-        "Voice_Yisang_LCEJigen_10116"
+        "Voice_Yisang_LCEJigen_10116",
+        "Voice_Honglu_EastCinq_10616"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -1071,7 +1075,8 @@
         "Announcer_SatgatAengdu_49",
         "Announcer_Binah_50",
         "Announcer_MatthiasKira_51",
-        "Announcer_ValencinaLucio_52"
+        "Announcer_ValencinaLucio_52",
+        "Announcer_CallistoAlbina_53"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
