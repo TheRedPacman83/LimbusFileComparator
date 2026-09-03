@@ -141,7 +141,9 @@
         "AttendanceCheckS7",
         "AnnouncerTicketUIPopup",
         "LobbyBGMUI",
-        "RailwayDungeonUI_1002"
+        "RailwayDungeonUI_1002",
+        "StoryVoiceSettingUI",
+        "SelectLoadingCgUi"
     ],
     "character": [
         "Characters"
@@ -1076,7 +1078,8 @@
         "Announcer_Binah_50",
         "Announcer_MatthiasKira_51",
         "Announcer_ValencinaLucio_52",
-        "Announcer_CallistoAlbina_53"
+        "Announcer_CallistoAlbina_53",
+        "Announcer_RienSora_54"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
