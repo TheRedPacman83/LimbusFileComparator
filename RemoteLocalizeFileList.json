@@ -115,6 +115,7 @@
         "StageStatisticUIText",
         "StageContinueText",
         "BattlePass-a1c9",
+        "BattlePass-a1c10",
         "BattlePass_Banner-a1c8",
         "UnitKeyword-a1c9p1",
         "AbEventsResultLog-a1c9p1",
@@ -136,14 +137,17 @@
         "RailwayDungeonUI_6",
         "RecordMemoryEvent",
         "UnitKeyword-exem",
+        "RPGSuicideBoxUI",
         "BossRaidUI-3",
         "BossRaidUI-4",
         "AttendanceCheckS7",
         "AnnouncerTicketUIPopup",
         "LobbyBGMUI",
         "RailwayDungeonUI_1002",
+        "UnitKeyword-a1c10p1",
         "StoryVoiceSettingUI",
-        "SelectLoadingCgUi"
+        "SelectLoadingCgUi",
+        "MainUIText-a1c10p1"
     ],
     "character": [
         "Characters"
@@ -204,7 +208,8 @@
         "Enemies-twth",
         "Assist-twth",
         "Enemies-exme",
-        "Assist-exme"
+        "Assist-exme",
+        "Enemies-a1c10p1"
     ],
     "ego": [
         "Egos",
@@ -333,7 +338,9 @@
         "Skills_Abnormality-exme",
         "Skills_Assist-exme",
         "Skills_Enemy-exme",
-        "Skills_Abnormality_Refraction2_bokgak"
+        "Skills_Abnormality_Refraction2_bokgak",
+        "Skills_Enemy-a1c10p1",
+        "Skills_Abnormality-a1c10p1"
     ],
     "passive": [
         "Passives",
@@ -427,7 +434,9 @@
         "Passives_Abnormality-exme",
         "Passives_Assist-exme",
         "Passives_Enemy-exme",
-        "Passives_Abnormality_Refraction2BokGak"
+        "Passives_Abnormality_Refraction2BokGak",
+        "Passives_Enemy-a1c10p1",
+        "Passives_Abnormality-a1c10p1"
     ],
     "buf": [
         "Bufs",
@@ -477,7 +486,8 @@
         "Bufs-twth",
         "Bufs-night-clean-up-re",
         "Bufs-BossRaid",
-        "Bufs-exme"
+        "Bufs-exme",
+        "Bufs-a1c10p1"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -490,6 +500,7 @@
         "Items-fools",
         "Items-a1c8p1",
         "Items-a1c9p1",
+        "Items-a1c10p1",
         "Items-x1p1c1",
         "Items-egoFifth"
     ],
@@ -540,7 +551,8 @@
         "BattleKeywords-twth",
         "BattleKeywords-night-clean-up-re",
         "BattleKeywords-BossRaid",
-        "BattleKeywords-exme"
+        "BattleKeywords-exme",
+        "BattleKeywords-a1c10p1"
     ],
     "skillTag": [
         "SkillTag"
@@ -744,6 +756,7 @@
         "StageNode-a1c9p1",
         "StageNode-a1c9p2",
         "StageNode-a1c9p3",
+        "StageNode-a1c10p1",
         "StageNode91-23",
         "StageNode91-24",
         "StageNode91-25",
@@ -805,7 +818,8 @@
         "Announcer",
         "Announcer-m4d1",
         "Announcer-a1c9p3",
-        "Announcer-x1p1c1"
+        "Announcer-x1p1c1",
+        "Announcer-a1c10p1"
     ],
     "normalBattleHint": [
         "BattleHint_NormalBattle"
@@ -818,7 +832,8 @@
         "BattleResultHint-a1c9p2",
         "BattleResultHint-a1c9p3",
         "BattleResultHint-twth",
-        "BattleResultHint-exme"
+        "BattleResultHint-exme",
+        "BattleResultHint-a1c10p1"
     ],
     "tutorialDesc": [
         "TutorialDesc",
@@ -1016,7 +1031,9 @@
         "Voice_Faust_Dawn_10216",
         "Voice_Gregor_Dawn_11216",
         "Voice_Yisang_LCEJigen_10116",
-        "Voice_Honglu_EastCinq_10616"
+        "Voice_Honglu_EastCinq_10616",
+        "Voice_Ryoshu_Contem_10416",
+        "Voice_Ishmael_Contem_10816"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -1079,7 +1096,8 @@
         "Announcer_MatthiasKira_51",
         "Announcer_ValencinaLucio_52",
         "Announcer_CallistoAlbina_53",
-        "Announcer_RienSora_54"
+        "Announcer_RienSora_54",
+        "Announcer_Emporium_55"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -1098,21 +1116,23 @@
         "Voice_EGO_Common_998"
     ],
     "battleSpeechBubble": [
-        "BattleSpeechBubbleDlg",
-        "BattleSpeechBubbleDlg_Cultivation",
-        "BattleSpeechBubbleDlg_mowe",
-        "BattleSpeechBubbleDlg-a1c9p1",
-        "BattleSpeechBubbleDlg-a1c9p2",
-        "BattleSpeechBubbleDlg-a1c9p3",
-        "BattleSpeechBubbleDlg-twth",
-        "BattleSpeechBubbleDlg-exme"
+      "BattleSpeechBubbleDlg",
+      "BattleSpeechBubbleDlg_Cultivation",
+      "BattleSpeechBubbleDlg_mowe",
+      "BattleSpeechBubbleDlg-a1c9p1",
+      "BattleSpeechBubbleDlg-a1c9p2",
+      "BattleSpeechBubbleDlg-a1c9p3",
+      "BattleSpeechBubbleDlg-twth",
+      "BattleSpeechBubbleDlg-exme",
+      "BattleSpeechBubbleDlg-a1c10p1"
     ],
     "iapProduct": [
         "IAPProduct",
         "IAPProduct-a1c6",
         "IAPProduct-a1c7",
         "IAPProduct-a1c8",
-        "IAPProduct-a1c9"
+        "IAPProduct-a1c9",
+        "IAPProduct-a1c10"
     ],
     "iapSticker": [
         "IAPSticker"
@@ -1152,19 +1172,22 @@
         "UserTicket-L",
         "UserTicket-L-a1c7p3",
         "UserTicket-L-a1c8p1",
-        "UserTicket-L-a1c9p1"
+        "UserTicket-L-a1c9p1",
+        "UserTicket-L-a1c10p1"
     ],
     "userTicketR": [
         "UserTicket-R",
         "UserTicket-R-a1c7p3",
         "UserTicket-R-a1c8p1",
-        "UserTicket-R-a1c9p1"
+        "UserTicket-R-a1c9p1",
+        "UserTicket-R-a1c10p1"
     ],
     "userTicketEGOBg": [
         "UserTicket-EGOBg",
         "UserTicket-EGOBg-a1c7p3",
         "UserTicket-EGOBg-a1c8p1",
-        "UserTicket-EGOBg-a1c9p1"
+        "UserTicket-EGOBg-a1c9p1",
+        "UserTicket-EGOBg-a1c10p1"
     ],
     "bgmLyrics": [
         "BgmLyrics_Credit",
@@ -1263,7 +1286,8 @@
         "PanicInfo-a1c9p3",
         "PanicInfo-x1p1c1",
         "PanicInfo-twth",
-        "PanicInfo-exme"
+        "PanicInfo-exme",
+        "PanicInfo-a1c10p1"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs_MD7"
@@ -1295,6 +1319,7 @@
     "storyCh8VideoEffect": [
         "Ch8VideoEffectSettings"
     ],
+
     "storyCh8TextEffect": [
         "Ch8TextEffectSettings"
     ],
