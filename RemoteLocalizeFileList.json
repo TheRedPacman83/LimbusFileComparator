@@ -209,7 +209,9 @@
         "Assist-twth",
         "Enemies-exme",
         "Assist-exme",
-        "Enemies-a1c10p1"
+        "Enemies-a1c10p1",
+        "Enemies-a1c10p2",
+        "Assist-a1c10p2"
     ],
     "ego": [
         "Egos",
@@ -340,7 +342,9 @@
         "Skills_Enemy-exme",
         "Skills_Abnormality_Refraction2_bokgak",
         "Skills_Enemy-a1c10p1",
-        "Skills_Abnormality-a1c10p1"
+        "Skills_Abnormality-a1c10p1",
+        "Skills_Abnormality-a1c10p2",
+        "Skills_Assist-a1c10p2"
     ],
     "passive": [
         "Passives",
@@ -436,7 +440,9 @@
         "Passives_Enemy-exme",
         "Passives_Abnormality_Refraction2BokGak",
         "Passives_Enemy-a1c10p1",
-        "Passives_Abnormality-a1c10p1"
+        "Passives_Abnormality-a1c10p1",
+        "Passives_Abnormality-a1c10p2",
+        "Passives_Assist-a1c10p2"
     ],
     "buf": [
         "Bufs",
@@ -487,7 +493,8 @@
         "Bufs-night-clean-up-re",
         "Bufs-BossRaid",
         "Bufs-exme",
-        "Bufs-a1c10p1"
+        "Bufs-a1c10p1",
+        "Bufs-a1c10p2"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -552,7 +559,8 @@
         "BattleKeywords-night-clean-up-re",
         "BattleKeywords-BossRaid",
         "BattleKeywords-exme",
-        "BattleKeywords-a1c10p1"
+        "BattleKeywords-a1c10p1",
+        "BattleKeywords-a1c10p2"
     ],
     "skillTag": [
         "SkillTag"
@@ -636,7 +644,8 @@
         "AbnormalityGuides-pilgrimage",
         "AbnormalityGuides-a1c9p1",
         "AbnormalityGuides-a1c9p2",
-        "AbnormalityGuides_exme"
+        "AbnormalityGuides_exme",
+        "AbnormalityGuides-a1c10p2"
     ],
     "keywordDictionary": [
         "KeywordDictionary"
@@ -833,7 +842,8 @@
         "BattleResultHint-a1c9p3",
         "BattleResultHint-twth",
         "BattleResultHint-exme",
-        "BattleResultHint-a1c10p1"
+        "BattleResultHint-a1c10p1",
+        "BattleResultHint-a1c10p2"
     ],
     "tutorialDesc": [
         "TutorialDesc",
@@ -1033,7 +1043,8 @@
         "Voice_Yisang_LCEJigen_10116",
         "Voice_Honglu_EastCinq_10616",
         "Voice_Ryoshu_Contem_10416",
-        "Voice_Ishmael_Contem_10816"
+        "Voice_Ishmael_Contem_10816",
+        "Voice_Rodion_Contem_10917"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -1116,15 +1127,16 @@
         "Voice_EGO_Common_998"
     ],
     "battleSpeechBubble": [
-      "BattleSpeechBubbleDlg",
-      "BattleSpeechBubbleDlg_Cultivation",
-      "BattleSpeechBubbleDlg_mowe",
-      "BattleSpeechBubbleDlg-a1c9p1",
-      "BattleSpeechBubbleDlg-a1c9p2",
-      "BattleSpeechBubbleDlg-a1c9p3",
-      "BattleSpeechBubbleDlg-twth",
-      "BattleSpeechBubbleDlg-exme",
-      "BattleSpeechBubbleDlg-a1c10p1"
+        "BattleSpeechBubbleDlg",
+        "BattleSpeechBubbleDlg_Cultivation",
+        "BattleSpeechBubbleDlg_mowe",
+        "BattleSpeechBubbleDlg-a1c9p1",
+        "BattleSpeechBubbleDlg-a1c9p2",
+        "BattleSpeechBubbleDlg-a1c9p3",
+        "BattleSpeechBubbleDlg-a1c10p1",
+        "BattleSpeechBubbleDlg-a1c10p2",
+        "BattleSpeechBubbleDlg-twth",
+        "BattleSpeechBubbleDlg-exme"
     ],
     "iapProduct": [
         "IAPProduct",
@@ -1287,7 +1299,8 @@
         "PanicInfo-x1p1c1",
         "PanicInfo-twth",
         "PanicInfo-exme",
-        "PanicInfo-a1c10p1"
+        "PanicInfo-a1c10p1",
+        "PanicInfo-a1c10p2"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs_MD7"
@@ -1319,7 +1332,6 @@
     "storyCh8VideoEffect": [
         "Ch8VideoEffectSettings"
     ],
-
     "storyCh8TextEffect": [
         "Ch8TextEffectSettings"
     ],
