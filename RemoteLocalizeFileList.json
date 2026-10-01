@@ -116,6 +116,10 @@
         "StageContinueText",
         "BattlePass-a1c9",
         "BattlePass-a1c10",
+        "BattlePass_Banner",
+        "BattlePass_Banner_2",
+        "BattlePass_Banner-a1c6",
+        "BattlePass_Banner-a1c7",
         "BattlePass_Banner-a1c8",
         "UnitKeyword-a1c9p1",
         "AbEventsResultLog-a1c9p1",
@@ -147,7 +151,8 @@
         "UnitKeyword-a1c10p1",
         "StoryVoiceSettingUI",
         "SelectLoadingCgUi",
-        "MainUIText-a1c10p1"
+        "MainUIText-a1c10p1",
+        "UnitKeyword-a1c10p3"
     ],
     "character": [
         "Characters"
@@ -211,6 +216,7 @@
         "Assist-exme",
         "Enemies-a1c10p1",
         "Enemies-a1c10p2",
+        "Enemies-a1c10p3",
         "Assist-a1c10p2"
     ],
     "ego": [
@@ -344,6 +350,7 @@
         "Skills_Enemy-a1c10p1",
         "Skills_Abnormality-a1c10p1",
         "Skills_Abnormality-a1c10p2",
+        "Skills_Abnormality-a1c10p3",
         "Skills_Assist-a1c10p2"
     ],
     "passive": [
@@ -442,6 +449,7 @@
         "Passives_Enemy-a1c10p1",
         "Passives_Abnormality-a1c10p1",
         "Passives_Abnormality-a1c10p2",
+        "Passives_Abnormality-a1c10p3",
         "Passives_Assist-a1c10p2"
     ],
     "buf": [
@@ -494,7 +502,8 @@
         "Bufs-BossRaid",
         "Bufs-exme",
         "Bufs-a1c10p1",
-        "Bufs-a1c10p2"
+        "Bufs-a1c10p2",
+        "Bufs-a1c10p3"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -560,7 +569,8 @@
         "BattleKeywords-BossRaid",
         "BattleKeywords-exme",
         "BattleKeywords-a1c10p1",
-        "BattleKeywords-a1c10p2"
+        "BattleKeywords-a1c10p2",
+        "BattleKeywords-a1c10p3"
     ],
     "skillTag": [
         "SkillTag"
@@ -645,7 +655,8 @@
         "AbnormalityGuides-a1c9p1",
         "AbnormalityGuides-a1c9p2",
         "AbnormalityGuides_exme",
-        "AbnormalityGuides-a1c10p2"
+        "AbnormalityGuides-a1c10p2",
+        "AbnormalityGuides-a1c10p3"
     ],
     "keywordDictionary": [
         "KeywordDictionary"
@@ -766,6 +777,7 @@
         "StageNode-a1c9p2",
         "StageNode-a1c9p3",
         "StageNode-a1c10p1",
+        "StageNode-a1c10p3",
         "StageNode91-23",
         "StageNode91-24",
         "StageNode91-25",
@@ -828,7 +840,7 @@
         "Announcer-m4d1",
         "Announcer-a1c9p3",
         "Announcer-x1p1c1",
-        "Announcer-a1c10p1"
+        "Announcer-a1c10p3"
     ],
     "normalBattleHint": [
         "BattleHint_NormalBattle"
@@ -843,7 +855,8 @@
         "BattleResultHint-twth",
         "BattleResultHint-exme",
         "BattleResultHint-a1c10p1",
-        "BattleResultHint-a1c10p2"
+        "BattleResultHint-a1c10p2",
+        "BattleResultHint-a1c10p3"
     ],
     "tutorialDesc": [
         "TutorialDesc",
@@ -1044,7 +1057,8 @@
         "Voice_Honglu_EastCinq_10616",
         "Voice_Ryoshu_Contem_10416",
         "Voice_Ishmael_Contem_10816",
-        "Voice_Rodion_Contem_10917"
+        "Voice_Rodion_Contem_10917",
+        "Voice_DonQuixote_Contem_10315"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -1108,7 +1122,9 @@
         "Announcer_ValencinaLucio_52",
         "Announcer_CallistoAlbina_53",
         "Announcer_RienSora_54",
-        "Announcer_Emporium_55"
+        "Announcer_Emporium_55",
+        "Announcer_Jeanne_56",
+        "Announcer_Meursault_57"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -1134,6 +1150,7 @@
         "BattleSpeechBubbleDlg-a1c9p2",
         "BattleSpeechBubbleDlg-a1c9p3",
         "BattleSpeechBubbleDlg-a1c10p1",
+        "BattleSpeechBubbleDlg-a1c10p3",
         "BattleSpeechBubbleDlg-a1c10p2",
         "BattleSpeechBubbleDlg-twth",
         "BattleSpeechBubbleDlg-exme"
@@ -1185,21 +1202,21 @@
         "UserTicket-L-a1c7p3",
         "UserTicket-L-a1c8p1",
         "UserTicket-L-a1c9p1",
-        "UserTicket-L-a1c10p1"
+        "UserTicket-L-a1c10p3"
     ],
     "userTicketR": [
         "UserTicket-R",
         "UserTicket-R-a1c7p3",
         "UserTicket-R-a1c8p1",
         "UserTicket-R-a1c9p1",
-        "UserTicket-R-a1c10p1"
+        "UserTicket-R-a1c10p3"
     ],
     "userTicketEGOBg": [
         "UserTicket-EGOBg",
         "UserTicket-EGOBg-a1c7p3",
         "UserTicket-EGOBg-a1c8p1",
         "UserTicket-EGOBg-a1c9p1",
-        "UserTicket-EGOBg-a1c10p1"
+        "UserTicket-EGOBg-a1c10p3"
     ],
     "bgmLyrics": [
         "BgmLyrics_Credit",
@@ -1216,7 +1233,9 @@
         "BgmLyrics_TianTian",
         "BgmLyrics_Saikai",
         "BgmLyrics_Credit9",
-        "BgmLyrics_10948"
+        "BgmLyrics_10948",
+        "BgmLyrics_Rendezvous",
+        "BgmLyrics_Credit10"
     ],
     "threadDungeon": [
         "ThreadDungeon",
@@ -1300,7 +1319,8 @@
         "PanicInfo-twth",
         "PanicInfo-exme",
         "PanicInfo-a1c10p1",
-        "PanicInfo-a1c10p2"
+        "PanicInfo-a1c10p2",
+        "PanicInfo-a1c10p3"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs_MD7"
@@ -1351,7 +1371,8 @@
         "ErrorCodeMsg"
     ],
     "lobbyBGM": [
-        "LobbyBGM"
+        "LobbyBGM",
+        "LobbyBGM-29"
     ],
     "lobbyBGMCategory": [
         "LobbyBGMCategory"
