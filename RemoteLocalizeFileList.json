@@ -1150,17 +1150,17 @@
         "Voice_EGO_Common_998"
     ],
     "battleSpeechBubble": [
-        "BattleSpeechBubbleDlg",
-        "BattleSpeechBubbleDlg_Cultivation",
-        "BattleSpeechBubbleDlg_mowe",
-        "BattleSpeechBubbleDlg-a1c9p1",
-        "BattleSpeechBubbleDlg-a1c9p2",
-        "BattleSpeechBubbleDlg-a1c9p3",
-        "BattleSpeechBubbleDlg-a1c10p1",
-        "BattleSpeechBubbleDlg-a1c10p3",
-        "BattleSpeechBubbleDlg-a1c10p2",
-        "BattleSpeechBubbleDlg-twth",
-        "BattleSpeechBubbleDlg-exme"
+      "BattleSpeechBubbleDlg",
+      "BattleSpeechBubbleDlg_Cultivation",
+      "BattleSpeechBubbleDlg_mowe",
+      "BattleSpeechBubbleDlg-a1c9p1",
+      "BattleSpeechBubbleDlg-a1c9p2",
+      "BattleSpeechBubbleDlg-a1c9p3",
+      "BattleSpeechBubbleDlg-a1c10p1",
+      "BattleSpeechBubbleDlg-a1c10p3",
+      "BattleSpeechBubbleDlg-a1c10p2",
+      "BattleSpeechBubbleDlg-twth",
+      "BattleSpeechBubbleDlg-exme"
     ],
     "iapProduct": [
         "IAPProduct",
@@ -1359,6 +1359,7 @@
     "storyCh8VideoEffect": [
         "Ch8VideoEffectSettings"
     ],
+
     "storyCh8TextEffect": [
         "Ch8TextEffectSettings"
     ],
