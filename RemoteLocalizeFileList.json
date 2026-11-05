@@ -133,6 +133,7 @@
         "Limbus3rdAnniversary",
         "Walpu8EventText",
         "UI_Mission_MirrorDungeon7Event",
+        "UI_Mission_MirrorDungeon8Event",
         "MirrorDungeonUI_7_Achievement",
         "UI_x1p1c1",
         "UnitKeyword-x1p1c1",
@@ -507,7 +508,8 @@
         "Bufs-exme",
         "Bufs-a1c10p1",
         "Bufs-a1c10p2",
-        "Bufs-a1c10p3"
+        "Bufs-a1c10p3",
+        "Bufs_Mirror8"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -574,7 +576,8 @@
         "BattleKeywords-exme",
         "BattleKeywords-a1c10p1",
         "BattleKeywords-a1c10p2",
-        "BattleKeywords-a1c10p3"
+        "BattleKeywords-a1c10p3",
+        "BattleKeywords_Mirror8"
     ],
     "skillTag": [
         "SkillTag"
@@ -1154,17 +1157,17 @@
         "Voice_EGO_Common_998"
     ],
     "battleSpeechBubble": [
-      "BattleSpeechBubbleDlg",
-      "BattleSpeechBubbleDlg_Cultivation",
-      "BattleSpeechBubbleDlg_mowe",
-      "BattleSpeechBubbleDlg-a1c9p1",
-      "BattleSpeechBubbleDlg-a1c9p2",
-      "BattleSpeechBubbleDlg-a1c9p3",
-      "BattleSpeechBubbleDlg-a1c10p1",
-      "BattleSpeechBubbleDlg-a1c10p3",
-      "BattleSpeechBubbleDlg-a1c10p2",
-      "BattleSpeechBubbleDlg-twth",
-      "BattleSpeechBubbleDlg-exme"
+        "BattleSpeechBubbleDlg",
+        "BattleSpeechBubbleDlg_Cultivation",
+        "BattleSpeechBubbleDlg_mowe",
+        "BattleSpeechBubbleDlg-a1c9p1",
+        "BattleSpeechBubbleDlg-a1c9p2",
+        "BattleSpeechBubbleDlg-a1c9p3",
+        "BattleSpeechBubbleDlg-a1c10p1",
+        "BattleSpeechBubbleDlg-a1c10p3",
+        "BattleSpeechBubbleDlg-a1c10p2",
+        "BattleSpeechBubbleDlg-twth",
+        "BattleSpeechBubbleDlg-exme"
     ],
     "iapProduct": [
         "IAPProduct",
@@ -1363,7 +1366,6 @@
     "storyCh8VideoEffect": [
         "Ch8VideoEffectSettings"
     ],
-
     "storyCh8TextEffect": [
         "Ch8TextEffectSettings"
     ],
