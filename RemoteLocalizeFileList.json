@@ -132,6 +132,7 @@
         "SelectDUI",
         "Limbus3rdAnniversary",
         "Walpu8EventText",
+        "Walpu10EventText",
         "UI_Mission_MirrorDungeon7Event",
         "UI_Mission_MirrorDungeon8Event",
         "MirrorDungeonUI_7_Achievement",
@@ -221,7 +222,8 @@
         "Enemies-a1c10p1",
         "Enemies-a1c10p2",
         "Enemies-a1c10p3",
-        "Assist-a1c10p2"
+        "Assist-a1c10p2",
+        "Enemies-walpu10"
     ],
     "ego": [
         "Egos",
@@ -355,7 +357,8 @@
         "Skills_Abnormality-a1c10p1",
         "Skills_Abnormality-a1c10p2",
         "Skills_Abnormality-a1c10p3",
-        "Skills_Assist-a1c10p2"
+        "Skills_Assist-a1c10p2",
+        "Skills_Abnormality-walpu10"
     ],
     "passive": [
         "Passives",
@@ -455,7 +458,8 @@
         "Passives_Abnormality-a1c10p1",
         "Passives_Abnormality-a1c10p2",
         "Passives_Abnormality-a1c10p3",
-        "Passives_Assist-a1c10p2"
+        "Passives_Assist-a1c10p2",
+        "Passives_Abnormality-walpu10"
     ],
     "buf": [
         "Bufs",
@@ -509,7 +513,8 @@
         "Bufs-a1c10p1",
         "Bufs-a1c10p2",
         "Bufs-a1c10p3",
-        "Bufs_Mirror8"
+        "Bufs_Mirror8",
+        "Bufs-walpu10"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -577,7 +582,8 @@
         "BattleKeywords-a1c10p1",
         "BattleKeywords-a1c10p2",
         "BattleKeywords-a1c10p3",
-        "BattleKeywords_Mirror8"
+        "BattleKeywords_Mirror8",
+        "BattleKeywords-walpu10"
     ],
     "skillTag": [
         "SkillTag"
@@ -619,7 +625,8 @@
         "AbEvents_lcbcheckup-re",
         "AbEvents_twth",
         "AbEvents_night-clean-up-re",
-        "AbEvents_exme"
+        "AbEvents_exme",
+        "AbEvents-walpu10"
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -708,7 +715,8 @@
         "ActionEvents-x1p1c1",
         "ActionEvents_twth",
         "ActionEvents_night-clean-up-re",
-        "ActionEvents_exme"
+        "ActionEvents_exme",
+        "ActionEvents-walpu10"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -740,7 +748,8 @@
         "EGOgift_lcbcheckup-re",
         "EGOgift_MirrorDungeon-x1p1c1",
         "EGOgift_TwiningThreads",
-        "EGOgift_night-clean-up-re"
+        "EGOgift_night-clean-up-re",
+        "EGOgift_walpu10"
     ],
     "stageChapter": [
         "StageChapterText",
@@ -789,6 +798,7 @@
         "StageNode-a1c10p1",
         "StageNode-a1c10p3",
         "StageNode91-23",
+        "StageNode91-29",
         "StageNode91-24",
         "StageNode91-25",
         "StageNode91-27"
@@ -850,7 +860,8 @@
         "Announcer-m4d1",
         "Announcer-a1c9p3",
         "Announcer-x1p1c1",
-        "Announcer-a1c10p3"
+        "Announcer-a1c10p3",
+        "Announcer-walpu10"
     ],
     "normalBattleHint": [
         "BattleHint_NormalBattle"
@@ -1071,7 +1082,10 @@
         "Voice_DonQuixote_Contem_10315",
         "Voice_Sinclair_Contem_11016",
         "Voice_Heathcliff_Contem_10717",
-        "Voice_Honglu_Contem_10617"
+        "Voice_Honglu_Contem_10617",
+        "Voice_Outis_Wedge_11116",
+        "Voice_DonQuixote_Wedge_10316",
+        "Voice_Sinclair_Wedge_11017"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -1138,7 +1152,9 @@
         "Announcer_Emporium_55",
         "Announcer_Jeanne_56",
         "Announcer_Meursault_57",
-        "Announcer_Pwei_58"
+        "Announcer_Pwei_58",
+        "Announcer_Walpu10_90008",
+        "Announcer_Hokma_59"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -1157,17 +1173,18 @@
         "Voice_EGO_Common_998"
     ],
     "battleSpeechBubble": [
-        "BattleSpeechBubbleDlg",
-        "BattleSpeechBubbleDlg_Cultivation",
-        "BattleSpeechBubbleDlg_mowe",
-        "BattleSpeechBubbleDlg-a1c9p1",
-        "BattleSpeechBubbleDlg-a1c9p2",
-        "BattleSpeechBubbleDlg-a1c9p3",
-        "BattleSpeechBubbleDlg-a1c10p1",
-        "BattleSpeechBubbleDlg-a1c10p3",
-        "BattleSpeechBubbleDlg-a1c10p2",
-        "BattleSpeechBubbleDlg-twth",
-        "BattleSpeechBubbleDlg-exme"
+      "BattleSpeechBubbleDlg",
+      "BattleSpeechBubbleDlg_Cultivation",
+      "BattleSpeechBubbleDlg_mowe",
+      "BattleSpeechBubbleDlg-a1c9p1",
+      "BattleSpeechBubbleDlg-a1c9p2",
+      "BattleSpeechBubbleDlg-a1c9p3",
+      "BattleSpeechBubbleDlg-a1c10p1",
+      "BattleSpeechBubbleDlg-a1c10p3",
+      "BattleSpeechBubbleDlg-a1c10p2",
+      "BattleSpeechBubbleDlg-twth",
+      "BattleSpeechBubbleDlg-exme", 
+      "BattleSpeechBubbleDlg-walpu10"
     ],
     "iapProduct": [
         "IAPProduct",
@@ -1334,7 +1351,8 @@
         "PanicInfo-exme",
         "PanicInfo-a1c10p1",
         "PanicInfo-a1c10p2",
-        "PanicInfo-a1c10p3"
+        "PanicInfo-a1c10p3",
+        "PanicInfo-walpu10"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs_MD7"
@@ -1366,6 +1384,7 @@
     "storyCh8VideoEffect": [
         "Ch8VideoEffectSettings"
     ],
+
     "storyCh8TextEffect": [
         "Ch8TextEffectSettings"
     ],
@@ -1390,5 +1409,8 @@
     ],
     "lobbyBGMCategory": [
         "LobbyBGMCategory"
+    ],
+    "personalityCompanion": [
+        "PersonalityCompanion"
     ]
 }
